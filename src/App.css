@@ -1,0 +1,27 @@
+.container{
+    margin:auto;
+    margin-top:20px ;
+    padding: 8px;
+    width: 50%;
+    border: 2px solid rgb(4, 1, 6);
+    
+    box-shadow: 15px 15px rgba(26, 187, 64, 0.627);
+}
+body{
+    background-image: url(Fruit.jpg);
+}
+*{
+    font-style: italic;
+}
+button{
+    background-image: url(Fruit.jpg);
+    color: green;
+    box-shadow: 1px 5px  black;
+}
+ul{
+    color:black;
+    
+}
+h2{
+    color: green;
+}
